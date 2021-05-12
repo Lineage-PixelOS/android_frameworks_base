@@ -14,7 +14,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<?xml version="1.0" encoding="utf-8"?>
 <vector android:height="120.0dip" android:width="120.0dip" android:viewportWidth="100.0" android:viewportHeight="100.0"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:scaleX="1.0" android:scaleY="1.0" android:translateX="25.0" android:translateY="27.5">
